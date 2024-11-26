@@ -9,6 +9,10 @@ This is a simple Rock Paper Scissor game implemented using HTML, CSS, and JavaSc
 3. Click on one of the choices to make your move.
 4. The computer will randomly select its move.
 5. The result of the game will be displayed, and the scores will be updated accordingly.
+
+## game features
+1.there are more insteresting part it the game con play with the friends 
+2. this game can give you the joy with your friends
 ## License
 
 This project is licensed under the MIT License.
