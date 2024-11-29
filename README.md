@@ -1,6 +1,6 @@
 # Rock Paper Scissor Game
 
-This is a simple Rock Paper Scissor game implemented using HTML, CSS, and JavaScript.
+This is aRock Paper Scissor game implemented using HTML, CSS, and JavaScript.
 
 ## How to Play
 
